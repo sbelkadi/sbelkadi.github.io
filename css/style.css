@@ -1205,18 +1205,18 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #team .member .member-info-content a:hover {
-  color: #ffd059;
+  color: rgb(130, 156, 208);
 }
 
 #team .member:hover .member-info {
-  background: rgba(0, 0, 0, 0.7);
+  background: rgba(0, 0, 0, 0.8);
   opacity: 1;
   transition: 0.4s;
 }
 
 #team .member:hover .member-info-content {
   margin-top: 0;
-  transition: margin 0.4s;
+  transition: margin 0.3s;
 }
 
 #team .member h4 {
@@ -1243,7 +1243,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #team .member .social a:hover {
-  color: #18d26e;
+  color: #000;
 }
 
 #team .member .social i {
